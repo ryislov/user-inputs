@@ -1,0 +1,9 @@
+h1{
+	font-family: 'Libre Baskerville', serif;
+	font-size: 49px;
+}
+
+.btn-flat, p{
+	background-color: white;
+	font-family: 'Playfair Display', serif;
+}
